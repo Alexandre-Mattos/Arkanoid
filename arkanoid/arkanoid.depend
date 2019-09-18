@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1568059400 source:c:\users\user\desktop\hackerman\c++\t1 arkanoid\arkanoid\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"codefun.h"
+
+1567555656 c:\users\user\desktop\hackerman\c++\t1 arkanoid\arkanoid\codefun.h
+	<windows.h>
+	<time.h>
+	<string.h>
+
